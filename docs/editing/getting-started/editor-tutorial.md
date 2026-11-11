@@ -24,7 +24,7 @@ Learn about the key features of {% data variables.product.prodname_vscode %} in 
 
 ## Open a folder in {% data variables.product.prodname_vscode_shortname %}
 
-You can use {% data variables.product.prodname_vscode_shortname %} to work on individual files for quick edits, or you can open a folder as a *workspace*. Start with a new folder so that the tutorial files and Git history are separate from your other projects.
+You can use {% data variables.product.prodname_vscode_shortname %} to work on individual files for quick edits, or you can open a folder as a [*workspace*](https://code.visualstudio.com/docs/editing/workspaces/workspaces?referrer=vsc-search). Start with a new folder so that the tutorial files and Git history are separate from your other projects.
 
 1. Create an empty folder named `vscode101` outside any existing Git repository.
 
